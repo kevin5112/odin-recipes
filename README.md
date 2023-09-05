@@ -1,1 +1,3 @@
 # odin-recipes
+
+FIRST ODIN PROJECT, LETS DO THISSS
